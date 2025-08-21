@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umer Khan</h1>
+<h1 align="center">Hi 👋, I'm Umer Mehboob Khan</h1>
 <h3 align="center">🚀  MERN Stack Developer</h3>
 
 ---
