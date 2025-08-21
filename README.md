@@ -25,10 +25,10 @@
 
  🛠 Languages & Tools:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,git,github,python,firebase,vscode,gsap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,git,github,python,firebase,vscode,gsap" />
 </p>
 
-- "Frontend:" HTML, CSS, Bootstrap, JavaScript (ES6+), TypeScript, React, Next.js  
+- "Frontend:" HTML, CSS, Bootstrap, Tailwind CSS, JavaScript (ES6+), TypeScript, React, Next.js  
 - "Backend:" Node.js, Express.js  
 - "Database:" MongoDB, Firebase  
 - "Version Control & Tools:" Git, GitHub, VS Code  
