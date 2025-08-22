@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Umer Mehboob Khan</h1>
+h1 align="center">Hi 👋, I'm Umer Mehboob Khan</h1>
 <h3 align="center">🚀 MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-umer-mehboob&label=Profile%20views&color=0e75b6&style=flat" alt="malik-umer-mehboob" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://umerkhan-portfolio.netlify.app/](https://umerkhan-portfolio.netlify.app/)
 
@@ -19,7 +18,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Malik-Umer-Mehboob"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Malik-Umer-Mehboob" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-umer-mehboob&show_icons=true&locale=en&layout=compact" alt="malik-umer-mehboob" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malik-umer-mehboob&show_icons=true&locale=en" alt="malik-umer-mehboob" /></p>
