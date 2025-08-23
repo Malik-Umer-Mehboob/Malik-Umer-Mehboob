@@ -16,7 +16,7 @@
 
  💬 Ask me about **React, Node.js, MongoDB, Express & Firebase**  
 
- ⚡ Fun fact: **I debug more than I code—but that’s where the real magic happens!**  
+ ⚡ Fun fact: **I see challenges in code as opportunities to grow stronger.**  
  
 </div>
  
