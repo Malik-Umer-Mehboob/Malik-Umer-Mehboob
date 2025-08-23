@@ -37,39 +37,34 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,github,git,vscode,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,typescript,firebase,python,java,mysql,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,javascript,typescript,firebase,java,python,mysql,nextjs,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,figma,postman,git,github,vscode" /><br>
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+    <img src="https://img.shields.io/badge/Aceternity%20UI-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Locomotive%20Scroll-FF6F61?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lenis-222222?style=for-the-badge&logo=javascript&logoColor=yellow" />
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/umermehboobkhan/umermehboobkhan/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">📈 Activity & GitHub Stats 📈</h2>
 <br>
-<div align=center>
+<div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=umermehboobkhan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=umermehboobkhan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=umermehboobkhan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
-<br/><br/>
-
+<br/>
 <hr/>
 
+<h2 align="center">🏆 GitHub Achievements 🏆</h2>
+<br/>
 <div align="center">
-<a href='https://ko-fi.com/umermehboobkhan' target='_blank'>
-  <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=umermehboobkhan&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
 </div>
 
 <br/>
+<hr/>
