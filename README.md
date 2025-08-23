@@ -14,7 +14,7 @@
  
  🌱 Deep diving into the **MERN Stack** for building scalable apps  
 
- 💬 Ask me about **React, Node.js, MongoDB, Express & Firebase**  
+ 💬 Ask me about **React, Node.js, MongoDB, Express & Typescript**  
 
  ⚡ Fun fact: **I see challenges in code as opportunities to grow stronger.**  
  
