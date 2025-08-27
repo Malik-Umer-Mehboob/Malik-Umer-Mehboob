@@ -7,12 +7,13 @@
 <h3 align="center">🚀 Full-Stack Developer | MERN Specialist | Problem Solver</h3>
 
 ---
+## 💫 About Me
+- 🔭 Currently developing a **scalable Marketplace Web Application** with modern web technologies.  
+- 🌱 Expanding expertise in the **MERN Stack, TypeScript, and Next.js** to build high-performance apps.  
+- 👨‍💻 Skilled in designing and implementing **end-to-end web solutions** with focus on scalability and user experience.  
+- 💬 Open to collaborations and discussions around **React, Node.js, MongoDB, Express, Redux, and Firebase**.  
+- ⚡ Fun fact: I treat every coding challenge as an opportunity to **learn, innovate, and grow stronger**.  
 
-# 💫 About Me:
-- 🔭 Currently building **a Marketplace Web App**  
-- 🌱 Growing expertise in the **MERN Stack & TypeScript**  
-- 💬 Ask me about **React, Node.js, MongoDB, Express, Redux & Firebase**  
-- ⚡ Fun fact: **I see challenges in code as opportunities to grow stronger.**
 
 📫 Reach me at: **malik.umerkhan97@gmail.com**
 
