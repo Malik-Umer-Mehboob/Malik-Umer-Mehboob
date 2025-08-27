@@ -41,7 +41,7 @@
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> "Don’t stop when you are tired. Stop when you are done." 🚀
 
 ---
 
