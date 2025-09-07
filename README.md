@@ -26,7 +26,18 @@
 ---
 
 ## ⚒️ Languages | Frameworks | Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,javascript,typescript,firebase,python,nextjs" /> <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,postman,git,github,vscode" /><br> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" /> <img src="https://img.shields.io/badge/Aceternity%20UI-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Locomotive%20Scroll-FF6F61?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Lenis-222222?style=for-the-badge&logo=javascript&logoColor=yellow" /> </div>
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,javascript,typescript,firebase,python,nextjs" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,postman,git,github,vscode" /><br> 
+  
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Aceternity%20UI-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Locomotive%20Scroll-FF6F61?style=for-the-badge&logo=javascript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Lenis-222222?style=for-the-badge&logo=javascript&logoColor=yellow" /> 
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white" />
+</div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Malik-Umer-Mehboob&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
