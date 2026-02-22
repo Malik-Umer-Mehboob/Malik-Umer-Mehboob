@@ -9,11 +9,14 @@
 ---
 
 ## 💫 About Me
-- 🔭 Currently developing a **scalable Marketplace Web Application** with modern web technologies.  
-- 🌱 Continuously expanding expertise in **MERN Stack, TypeScript, Next.js, and modern UI frameworks**.  
-- 👨‍💻 Skilled in building **end-to-end web solutions** focusing on performance, scalability, and UX.  
-- 💬 Open to collaborations and discussions around **React, Node.js, MongoDB, Express, Redux, Firebase, and Shadcn/UI**.  
-- ⚡ Fun fact: Every coding challenge is an opportunity to **learn, innovate, and grow stronger**.  
+I’m a **Full Stack Developer** passionate about delivering **scalable, high-performance web applications**.  
+I specialize in **MERN & PERN stack** development, combining clean backend architecture with **modern, interactive UIs**.  
+
+- 🔭 Currently building a **scalable Marketplace Web Application**  
+- 🌱 Expanding expertise in **MERN Stack, PostgreSQL, TypeScript, Next.js, and modern UI frameworks**  
+- 👨‍💻 Skilled in **end-to-end solutions**, focusing on performance, scalability, and UX  
+- 💬 Open to collaborations around **React, Node.js, MongoDB, Express, Redux, Firebase, Shadcn/UI, and Anti-Gravity**  
+- ⚡ Fun fact: Every coding challenge is an opportunity to **learn, innovate, and grow stronger**  
 
 📫 Reach me at: **[malik.umerkhan97@gmail.com](mailto:malik.umerkhan97@gmail.com)**
 
@@ -28,11 +31,12 @@
 
 ## ⚒️ Tech Stack
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,javascript,typescript,firebase,nextjs" /> 
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,postgresql,javascript,typescript,firebase,nextjs" /> 
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,postman,git,github,vscode" /><br> 
   
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Aceternity%20UI-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Anti-Gravity-FF6F61?style=for-the-badge&logo=javascript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Locomotive%20Scroll-FF6F61?style=for-the-badge&logo=javascript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Lenis-222222?style=for-the-badge&logo=javascript&logoColor=yellow" /> 
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white" />
@@ -43,21 +47,19 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=Malik-Umer-Mehboob&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Malik-Umer-Mehboob&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Umer-Mehboob&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![Umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malik-Umer-Mehboob&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![Umer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malik-Umer-Mehboob&theme=dark&hide_border=false)<br/>
+  ![Umer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Umer-Mehboob&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-![](https://github-profile-trophy.vercel.app/?username=Malik-Umer-Mehboob&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  ![Umer's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Malik-Umer-Mehboob&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 ---
 
 ### ✍️ Random Dev Quote
 > "Don’t stop when you are tired. Stop when you are done." 🚀
-
----
