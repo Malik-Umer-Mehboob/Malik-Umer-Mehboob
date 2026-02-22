@@ -52,14 +52,7 @@ I specialize in **MERN & PERN stack** development, combining clean backend archi
 
 ---
 
-## 📊 GitHub Highlights
-<div align="center">
-  ![Commits](https://img.shields.io/badge/Commits-1500-brightgreen)
-  ![Projects](https://img.shields.io/badge/Projects-12-blue)
-  ![Open Source](https://img.shields.io/badge/OpenSource-Contributor-orange)
-</div>
 
----
 
 
 
