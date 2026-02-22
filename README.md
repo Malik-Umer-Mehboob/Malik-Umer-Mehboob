@@ -52,16 +52,11 @@ I specialize in **MERN & PERN stack** development, combining clean backend archi
 
 ---
 
-## 🏅 Contributions & Highlights
+## 📊 GitHub Highlights
 <div align="center">
-  ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Malik-Umer-Mehboob&show_icons=true&theme=dark&count_private=true)
-</div>
-
----
-
-## 🎯 Top Languages & Skills
-<div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Umer-Mehboob&layout=compact&theme=dark&hide_border=false&include_all_commits=true)
+  ![Commits](https://img.shields.io/badge/Commits-1500-brightgreen)
+  ![Projects](https://img.shields.io/badge/Projects-12-blue)
+  ![Open Source](https://img.shields.io/badge/OpenSource-Contributor-orange)
 </div>
 
 ---
