@@ -32,11 +32,17 @@ I specialize in **MERN & PERN stack** development, combining clean backend archi
 ## ⚒️ Tech Stack
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,postgresql,javascript,typescript,firebase,nextjs" /> 
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,postman,git,github,vscode" /><br> 
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,postman,git,github,vscode" /><br><br>
+
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   
+  <br><br>
+
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Aceternity%20UI-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Anti-Gravity-FF6F61?style=for-the-badge&logo=javascript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Locomotive%20Scroll-FF6F61?style=for-the-badge&logo=javascript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Lenis-222222?style=for-the-badge&logo=javascript&logoColor=yellow" /> 
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white" />
