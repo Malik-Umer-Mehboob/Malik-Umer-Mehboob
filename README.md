@@ -1,23 +1,28 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=umermehboobkhan.umermehboobkhan" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umer+Mehboob+Khan!;MERN+Stack+Developer;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umer+Mehboob+Khan!;Software+Engineer;MERN+%26+PERN+Developer;Building+Scalable+Applications" />
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | MERN & PERN Specialist | Problem Solver & Innovator</h3>
+<h3 align="center">💻 Software Engineer | MERN & PERN Developer | Building Scalable Applications</h3>
 
 ---
 
 ## 💫 About Me
-I’m a **Full Stack Developer** passionate about delivering **scalable, high-performance web applications**.  
-I specialize in **MERN & PERN stack** development, combining clean backend architecture with **modern, interactive UIs**.  
 
-- 🔭 Currently building a **scalable Marketplace Web Application**  
-- 🌱 Expanding expertise in **MERN Stack, PostgreSQL, TypeScript, Next.js, and modern UI frameworks**  
-- 👨‍💻 Skilled in **end-to-end solutions**, focusing on performance, scalability, and UX  
-- 💬 Open to collaborations around **React, Node.js, MongoDB, Express, Redux, Firebase, Shadcn/UI, and Anti-Gravity**  
-- ⚡ Fun fact: Every coding challenge is an opportunity to **learn, innovate, and grow stronger**  
+I’m a **Software Engineer** with experience in designing, developing, and maintaining scalable web applications and software solutions.
 
+I specialize in **Full-Stack Development** using **MERN (MongoDB, Express.js, React.js, Node.js)** and **PERN (PostgreSQL, Express.js, React.js, Node.js)** stacks, focusing on building responsive user interfaces, robust backend systems, and efficient database architectures.
+
+Passionate about software engineering principles, clean code, system design, and modern development practices, I enjoy solving complex problems and transforming ideas into reliable, production-ready applications.
+
+- 💻 Software Engineering & Full-Stack Development
+- ⚛️ MERN & PERN Stack Development
+- 🗄️ MongoDB & PostgreSQL Database Management
+- 🔗 RESTful API Design & Integration
+- ☁️ Cloud & DevOps Fundamentals
+- 🚀 Scalable, Secure & High-Performance Applications
+- 📚 Continuous Learning & Problem Solving
 📫 Reach me at: **[malik.umerkhan97@gmail.com](mailto:malik.umerkhan97@gmail.com)**
 
 ---
