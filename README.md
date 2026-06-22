@@ -23,7 +23,7 @@ Passionate about software engineering principles, clean code, system design, and
 - ☁️ Cloud & DevOps Fundamentals
 - 🚀 Scalable, Secure & High-Performance Applications
 - 📚 Continuous Learning & Problem Solving
-  
+  <br>
 📫 Reach me at: **[malik.umerkhan97@gmail.com](mailto:malik.umerkhan97@gmail.com)**
 
 ---
