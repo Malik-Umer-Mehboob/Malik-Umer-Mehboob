@@ -24,6 +24,7 @@ Passionate about software engineering principles, clean code, system design, and
 - 🚀 Scalable, Secure & High-Performance Applications
 - 📚 Continuous Learning & Problem Solving
   <br>
+  <br>
 📫 Reach me at: **[malik.umerkhan97@gmail.com](mailto:malik.umerkhan97@gmail.com)**
 
 ---
