@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=umermehboobkhan.umermehboobkhan" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umer+Mehboob+Khan!;Software+Engineer;MERN+%26+PERN+Developer;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umer+Mehboob+Khan!;Software+Engineer;MERN+%2C+PERN+%26+Angular+Developer;Odoo+%26+Python+Enthusiast;Building+Scalable+Applications" />
 </h1>
 
-<h3 align="center">💻 Software Engineer | MERN & PERN Developer | Building Scalable Applications</h3>
+<h3 align="center">💻 Software Engineer | MERN, PERN & Angular Developer | Odoo & Python | Building Scalable Applications</h3>
 
 ---
 
@@ -12,12 +12,14 @@
 
 I’m a **Software Engineer** with experience in designing, developing, and maintaining scalable web applications and software solutions.
 
-I specialize in **Full-Stack Development** using **MERN (MongoDB, Express.js, React.js, Node.js)** and **PERN (PostgreSQL, Express.js, React.js, Node.js)** stacks, focusing on building responsive user interfaces, robust backend systems, and efficient database architectures.
+I specialize in **Full-Stack Development** using **MERN (MongoDB, Express.js, React.js, Node.js)**, **PERN (PostgreSQL, Express.js, React.js, Node.js)**, and **Angular** stacks, focusing on building responsive user interfaces, robust backend systems, and efficient database architectures. I also work with **Python** for scripting and backend logic, and **Odoo** for ERP development and business process automation.
 
 Passionate about software engineering principles, clean code, system design, and modern development practices, I enjoy solving complex problems and transforming ideas into reliable, production-ready applications.
 
 - 💻 Software Engineering & Full-Stack Development
-- ⚛️ MERN & PERN Stack Development
+- ⚛️ MERN, PERN & Angular Development
+- 🐍 Python Development & Scripting
+- 🧩 Odoo ERP Development & Customization
 - 🗄️ MongoDB & PostgreSQL Database Management
 - 🔗 RESTful API Design & Integration
 - ☁️ Cloud & DevOps Fundamentals
@@ -38,9 +40,12 @@ Passionate about software engineering principles, clean code, system design, and
 
 ## ⚒️ Tech Stack
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,postgresql,javascript,typescript,firebase,nextjs" /> 
+  <img src="https://skillicons.dev/icons?i=react,redux,angular,nodejs,express,mongodb,postgresql,python,javascript,typescript,firebase,nextjs" /> 
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,postman,git,github,vscode" /><br><br>
 
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
