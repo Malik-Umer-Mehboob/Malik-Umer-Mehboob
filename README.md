@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umer+Mehboob+Khan!;Software+Engineer;MERN+%2C+PERN+%26+Angular+Developer;Odoo+%26+Python+Enthusiast;Building+Scalable+Applications" />
 </h1>
 
-<h3 align="center">💻 Software Engineer | MERN, PERN & Angular Developer | Odoo & Python | Building Scalable Applications</h3>
+<h3 align="center">💻 Software Engineer | MERN, PERN & Angular Developer | Odoo & Python | Web & ERP Solutions</h3>
 
 ---
 
