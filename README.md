@@ -61,7 +61,7 @@ Passionate about software engineering principles, clean code, system design, and
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white" />
 </div>
----
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Malik-Umer-Mehboob&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
