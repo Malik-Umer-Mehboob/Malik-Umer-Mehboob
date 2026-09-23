@@ -41,11 +41,12 @@ Passionate about software engineering principles, clean code, system design, and
 ## ⚒️ Tech Stack
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=react,redux,angular,nodejs,express,mongodb,postgresql,python,javascript,typescript,firebase,nextjs" /> 
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,postman,git,github,vscode" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,postman,git,github,vscode,php" /><br><br>
 
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -60,7 +61,6 @@ Passionate about software engineering principles, clean code, system design, and
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white" />
 </div>
-
 ---
 
 # 📊 GitHub Stats:
